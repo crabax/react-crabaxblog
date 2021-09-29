@@ -1,0 +1,3 @@
+export const GET_LOCAL_POSTS = 'GET_LOCAL_POSTS';
+export const GET_SERVER_POSTS = 'GET_SERVER_POSTS';
+export const GET_GNEWS_POSTS = 'GET_GNEWS_POSTS';
